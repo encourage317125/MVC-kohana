@@ -1,0 +1,45 @@
+[submodule "system"]
+	path = system
+	url = git://github.com/kohana/core.git
+[submodule "modules/database"]
+	path = modules/database
+	url = git://github.com/kohana/database.git
+[submodule "modules/userguide"]
+	path = modules/userguide
+	url = git://github.com/kohana/userguide.git
+[submodule "modules/jelly"]
+	path = modules/jelly
+	url = git://github.com/kohana-world/kohana-jelly.git
+[submodule "modules/modules"]
+	path = modules/modules
+	url = git://github.com/kohana-world/kw-modules.git
+[submodule "modules/core"]
+	path = modules/core
+	url = git://github.com/kohana-world/kw-core.git
+[submodule "modules/i18n"]
+	path = modules/i18n
+	url = git://github.com/kohana-world/kw-i18n.git
+[submodule "modules/github"]
+	path = modules/github
+	url = git://github.com/ahutchings/kohana-github.git
+[submodule "modules/pagination"]
+	path = modules/pagination
+	url = git://github.com/kohana/pagination.git
+[submodule "modules/static-files"]
+	path = modules/static-files
+	url = git://github.com/kohana-world/kohana-static-files.git
+[submodule "modules/openid"]
+	path = modules/openid
+	url = git://github.com/kohana-world/kw-openid.git
+[submodule "modules/oauth"]
+	path = modules/oauth
+	url = git://github.com/biakaveron/oauth.git
+[submodule "modules/auth"]
+	path = modules/auth
+	url = git://github.com/kohana-world/kw-auth.git
+[submodule "modules/accounts"]
+	path = modules/accounts
+	url = git://github.com/kohana-world/kw-accounts.git
+[submodule "modules/debugtoolbar"]
+	path = modules/debugtoolbar
+	url = git://github.com/biakaveron/debug-toolbar.git
